@@ -1,0 +1,32 @@
+name: Material integrity and repeat checks
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'roughref/material_texture_pack_01/**'
+      - 'mediumqual/material_texture_pack_02/**'
+      - 'tools/verify_import.py'
+      - '.github/workflows/material-integrity.yml'
+  pull_request:
+    paths:
+      - 'roughref/material_texture_pack_01/**'
+      - 'mediumqual/material_texture_pack_02/**'
+      - 'tools/verify_import.py'
+      - '.github/workflows/material-integrity.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install --disable-pip-version-check pillow numpy
+      - name: Verify 56 source materials and checksum provenance
+        run: python tools/verify_import.py
+      - name: Verify Pack 02 periodic texture seams
+        run: python mediumqual/material_texture_pack_02/tools/verify_assets.py
