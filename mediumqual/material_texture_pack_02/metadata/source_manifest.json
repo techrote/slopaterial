@@ -1,0 +1,1056 @@
+{
+  "title": "Techrote Material Texture Pack 02",
+  "version": "1.0",
+  "tile_size_px": 1024,
+  "seed": 20261107,
+  "surface_count": 34,
+  "pattern_count": 12,
+  "total": 46,
+  "generation": "periodic random material fields and exact modulo vector fills, wrapped using circular convolution; no object imagery",
+  "textures": [
+    {
+      "category": "metals",
+      "name": "01_Satin_Brass",
+      "kind": "metal",
+      "base_rgb": [
+        157,
+        135,
+        101
+      ],
+      "png": "01_Material_Surfaces_PNG/metals__01_Satin_Brass.png",
+      "pat": "03_GIMP_PAT/metals__01_Satin_Brass.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 2.4189,
+        "seam_vertical": 5.8027,
+        "mean_interior_horizontal": 2.5465,
+        "mean_interior_vertical": 5.3214,
+        "seam_ratio_h": 0.95,
+        "seam_ratio_v": 1.09
+      }
+    },
+    {
+      "category": "metals",
+      "name": "02_Muted_Copper",
+      "kind": "metal",
+      "base_rgb": [
+        151,
+        97,
+        77
+      ],
+      "png": "01_Material_Surfaces_PNG/metals__02_Muted_Copper.png",
+      "pat": "03_GIMP_PAT/metals__02_Muted_Copper.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 2.4668,
+        "seam_vertical": 5.9648,
+        "mean_interior_horizontal": 2.542,
+        "mean_interior_vertical": 5.2951,
+        "seam_ratio_h": 0.97,
+        "seam_ratio_v": 1.126
+      }
+    },
+    {
+      "category": "metals",
+      "name": "03_Satin_Nickel",
+      "kind": "metal",
+      "base_rgb": [
+        164,
+        170,
+        168
+      ],
+      "png": "01_Material_Surfaces_PNG/metals__03_Satin_Nickel.png",
+      "pat": "03_GIMP_PAT/metals__03_Satin_Nickel.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 2.541,
+        "seam_vertical": 5.293,
+        "mean_interior_horizontal": 2.5454,
+        "mean_interior_vertical": 5.2991,
+        "seam_ratio_h": 0.998,
+        "seam_ratio_v": 0.999
+      }
+    },
+    {
+      "category": "metals",
+      "name": "04_Dark_Titanium",
+      "kind": "metal",
+      "base_rgb": [
+        69,
+        76,
+        83
+      ],
+      "png": "01_Material_Surfaces_PNG/metals__04_Dark_Titanium.png",
+      "pat": "03_GIMP_PAT/metals__04_Dark_Titanium.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 2.5332,
+        "seam_vertical": 4.3564,
+        "mean_interior_horizontal": 2.5445,
+        "mean_interior_vertical": 5.3076,
+        "seam_ratio_h": 0.996,
+        "seam_ratio_v": 0.821
+      }
+    },
+    {
+      "category": "metals",
+      "name": "05_Champagne_Anodised",
+      "kind": "metal",
+      "base_rgb": [
+        163,
+        153,
+        132
+      ],
+      "png": "01_Material_Surfaces_PNG/metals__05_Champagne_Anodised.png",
+      "pat": "03_GIMP_PAT/metals__05_Champagne_Anodised.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 2.5977,
+        "seam_vertical": 5.5527,
+        "mean_interior_horizontal": 2.5471,
+        "mean_interior_vertical": 5.3033,
+        "seam_ratio_h": 1.02,
+        "seam_ratio_v": 1.047
+      }
+    },
+    {
+      "category": "metals",
+      "name": "06_Matte_Zinc",
+      "kind": "metal",
+      "base_rgb": [
+        135,
+        139,
+        133
+      ],
+      "png": "01_Material_Surfaces_PNG/metals__06_Matte_Zinc.png",
+      "pat": "03_GIMP_PAT/metals__06_Matte_Zinc.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 2.4873,
+        "seam_vertical": 4.9033,
+        "mean_interior_horizontal": 2.5434,
+        "mean_interior_vertical": 5.2892,
+        "seam_ratio_h": 0.978,
+        "seam_ratio_v": 0.927
+      }
+    },
+    {
+      "category": "metals",
+      "name": "07_Blue_Grey_Steel",
+      "kind": "metal",
+      "base_rgb": [
+        106,
+        121,
+        132
+      ],
+      "png": "01_Material_Surfaces_PNG/metals__07_Blue_Grey_Steel.png",
+      "pat": "03_GIMP_PAT/metals__07_Blue_Grey_Steel.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 2.5488,
+        "seam_vertical": 5.082,
+        "mean_interior_horizontal": 2.5436,
+        "mean_interior_vertical": 5.3027,
+        "seam_ratio_h": 1.002,
+        "seam_ratio_v": 0.958
+      }
+    },
+    {
+      "category": "metals",
+      "name": "08_Soft_Bronze",
+      "kind": "metal",
+      "base_rgb": [
+        121,
+        95,
+        74
+      ],
+      "png": "01_Material_Surfaces_PNG/metals__08_Soft_Bronze.png",
+      "pat": "03_GIMP_PAT/metals__08_Soft_Bronze.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 2.5381,
+        "seam_vertical": 4.4805,
+        "mean_interior_horizontal": 2.544,
+        "mean_interior_vertical": 5.328,
+        "seam_ratio_h": 0.998,
+        "seam_ratio_v": 0.841
+      }
+    },
+    {
+      "category": "coatings",
+      "name": "09_Walnut_Bakelite",
+      "kind": "poly",
+      "base_rgb": [
+        89,
+        64,
+        52
+      ],
+      "png": "01_Material_Surfaces_PNG/coatings__09_Walnut_Bakelite.png",
+      "pat": "03_GIMP_PAT/coatings__09_Walnut_Bakelite.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 4.748,
+        "seam_vertical": 4.9287,
+        "mean_interior_horizontal": 4.6915,
+        "mean_interior_vertical": 4.692,
+        "seam_ratio_h": 1.012,
+        "seam_ratio_v": 1.05
+      }
+    },
+    {
+      "category": "coatings",
+      "name": "10_Sage_Enamel",
+      "kind": "enamel",
+      "base_rgb": [
+        110,
+        119,
+        101
+      ],
+      "png": "01_Material_Surfaces_PNG/coatings__10_Sage_Enamel.png",
+      "pat": "03_GIMP_PAT/coatings__10_Sage_Enamel.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 1.5615,
+        "seam_vertical": 1.6191,
+        "mean_interior_horizontal": 1.6183,
+        "mean_interior_vertical": 1.6177,
+        "seam_ratio_h": 0.965,
+        "seam_ratio_v": 1.001
+      }
+    },
+    {
+      "category": "coatings",
+      "name": "11_Red_Oxide_Enamel",
+      "kind": "enamel",
+      "base_rgb": [
+        145,
+        83,
+        78
+      ],
+      "png": "01_Material_Surfaces_PNG/coatings__11_Red_Oxide_Enamel.png",
+      "pat": "03_GIMP_PAT/coatings__11_Red_Oxide_Enamel.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 1.5918,
+        "seam_vertical": 1.6455,
+        "mean_interior_horizontal": 1.6158,
+        "mean_interior_vertical": 1.6169,
+        "seam_ratio_h": 0.985,
+        "seam_ratio_v": 1.018
+      }
+    },
+    {
+      "category": "coatings",
+      "name": "12_Cadet_Blue_Enamel",
+      "kind": "enamel",
+      "base_rgb": [
+        79,
+        101,
+        115
+      ],
+      "png": "01_Material_Surfaces_PNG/coatings__12_Cadet_Blue_Enamel.png",
+      "pat": "03_GIMP_PAT/coatings__12_Cadet_Blue_Enamel.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 1.5947,
+        "seam_vertical": 1.6416,
+        "mean_interior_horizontal": 1.617,
+        "mean_interior_vertical": 1.6139,
+        "seam_ratio_h": 0.986,
+        "seam_ratio_v": 1.017
+      }
+    },
+    {
+      "category": "coatings",
+      "name": "13_Pearl_Ceramic",
+      "kind": "ceramic",
+      "base_rgb": [
+        219,
+        219,
+        210
+      ],
+      "png": "01_Material_Surfaces_PNG/coatings__13_Pearl_Ceramic.png",
+      "pat": "03_GIMP_PAT/coatings__13_Pearl_Ceramic.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 1.2637,
+        "seam_vertical": 1.2461,
+        "mean_interior_horizontal": 1.2793,
+        "mean_interior_vertical": 1.2802,
+        "seam_ratio_h": 0.988,
+        "seam_ratio_v": 0.973
+      }
+    },
+    {
+      "category": "coatings",
+      "name": "14_Smoke_Acrylic",
+      "kind": "smooth",
+      "base_rgb": [
+        39,
+        49,
+        56
+      ],
+      "png": "01_Material_Surfaces_PNG/coatings__14_Smoke_Acrylic.png",
+      "pat": "03_GIMP_PAT/coatings__14_Smoke_Acrylic.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 1.4502,
+        "seam_vertical": 1.5127,
+        "mean_interior_horizontal": 1.5024,
+        "mean_interior_vertical": 1.5031,
+        "seam_ratio_h": 0.965,
+        "seam_ratio_v": 1.006
+      }
+    },
+    {
+      "category": "coatings",
+      "name": "15_Milk_Polycarbonate",
+      "kind": "smooth",
+      "base_rgb": [
+        211,
+        210,
+        201
+      ],
+      "png": "01_Material_Surfaces_PNG/coatings__15_Milk_Polycarbonate.png",
+      "pat": "03_GIMP_PAT/coatings__15_Milk_Polycarbonate.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 1.5352,
+        "seam_vertical": 1.5918,
+        "mean_interior_horizontal": 1.5036,
+        "mean_interior_vertical": 1.5044,
+        "seam_ratio_h": 1.021,
+        "seam_ratio_v": 1.058
+      }
+    },
+    {
+      "category": "coatings",
+      "name": "16_Deep_Teal_Resin",
+      "kind": "smooth",
+      "base_rgb": [
+        50,
+        101,
+        106
+      ],
+      "png": "01_Material_Surfaces_PNG/coatings__16_Deep_Teal_Resin.png",
+      "pat": "03_GIMP_PAT/coatings__16_Deep_Teal_Resin.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 1.542,
+        "seam_vertical": 1.502,
+        "mean_interior_horizontal": 1.5044,
+        "mean_interior_vertical": 1.5038,
+        "seam_ratio_h": 1.025,
+        "seam_ratio_v": 0.999
+      }
+    },
+    {
+      "category": "coatings",
+      "name": "17_Amber_Resin",
+      "kind": "smooth",
+      "base_rgb": [
+        168,
+        111,
+        65
+      ],
+      "png": "01_Material_Surfaces_PNG/coatings__17_Amber_Resin.png",
+      "pat": "03_GIMP_PAT/coatings__17_Amber_Resin.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 1.4492,
+        "seam_vertical": 1.5156,
+        "mean_interior_horizontal": 1.503,
+        "mean_interior_vertical": 1.5028,
+        "seam_ratio_h": 0.964,
+        "seam_ratio_v": 1.009
+      }
+    },
+    {
+      "category": "coatings",
+      "name": "18_Graphite_Polymer",
+      "kind": "poly",
+      "base_rgb": [
+        66,
+        68,
+        70
+      ],
+      "png": "01_Material_Surfaces_PNG/coatings__18_Graphite_Polymer.png",
+      "pat": "03_GIMP_PAT/coatings__18_Graphite_Polymer.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 4.709,
+        "seam_vertical": 4.6924,
+        "mean_interior_horizontal": 4.6901,
+        "mean_interior_vertical": 4.6941,
+        "seam_ratio_h": 1.004,
+        "seam_ratio_v": 1.0
+      }
+    },
+    {
+      "category": "coatings",
+      "name": "19_Terracotta_Enamel",
+      "kind": "enamel",
+      "base_rgb": [
+        161,
+        110,
+        88
+      ],
+      "png": "01_Material_Surfaces_PNG/coatings__19_Terracotta_Enamel.png",
+      "pat": "03_GIMP_PAT/coatings__19_Terracotta_Enamel.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 1.6504,
+        "seam_vertical": 1.6504,
+        "mean_interior_horizontal": 1.6151,
+        "mean_interior_vertical": 1.6164,
+        "seam_ratio_h": 1.022,
+        "seam_ratio_v": 1.021
+      }
+    },
+    {
+      "category": "coatings",
+      "name": "20_Olive_Polymer",
+      "kind": "poly",
+      "base_rgb": [
+        98,
+        99,
+        79
+      ],
+      "png": "01_Material_Surfaces_PNG/coatings__20_Olive_Polymer.png",
+      "pat": "03_GIMP_PAT/coatings__20_Olive_Polymer.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 4.791,
+        "seam_vertical": 4.4834,
+        "mean_interior_horizontal": 4.6888,
+        "mean_interior_vertical": 4.6963,
+        "seam_ratio_h": 1.022,
+        "seam_ratio_v": 0.955
+      }
+    },
+    {
+      "category": "soft",
+      "name": "21_Graphite_Neoprene",
+      "kind": "rubber",
+      "base_rgb": [
+        31,
+        33,
+        34
+      ],
+      "png": "01_Material_Surfaces_PNG/soft__21_Graphite_Neoprene.png",
+      "pat": "03_GIMP_PAT/soft__21_Graphite_Neoprene.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 4.5312,
+        "seam_vertical": 4.5146,
+        "mean_interior_horizontal": 4.5769,
+        "mean_interior_vertical": 4.5772,
+        "seam_ratio_h": 0.99,
+        "seam_ratio_v": 0.986
+      }
+    },
+    {
+      "category": "soft",
+      "name": "22_Charcoal_Vinyl",
+      "kind": "vinyl",
+      "base_rgb": [
+        42,
+        43,
+        45
+      ],
+      "png": "01_Material_Surfaces_PNG/soft__22_Charcoal_Vinyl.png",
+      "pat": "03_GIMP_PAT/soft__22_Charcoal_Vinyl.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 4.8047,
+        "seam_vertical": 4.9014,
+        "mean_interior_horizontal": 4.955,
+        "mean_interior_vertical": 4.9196,
+        "seam_ratio_h": 0.97,
+        "seam_ratio_v": 0.996
+      }
+    },
+    {
+      "category": "soft",
+      "name": "23_Olive_Nylon_Weave",
+      "kind": "fabric",
+      "base_rgb": [
+        93,
+        100,
+        79
+      ],
+      "png": "01_Material_Surfaces_PNG/soft__23_Olive_Nylon_Weave.png",
+      "pat": "03_GIMP_PAT/soft__23_Olive_Nylon_Weave.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 6.1523,
+        "seam_vertical": 6.4111,
+        "mean_interior_horizontal": 5.2694,
+        "mean_interior_vertical": 5.2599,
+        "seam_ratio_h": 1.168,
+        "seam_ratio_v": 1.219
+      }
+    },
+    {
+      "category": "soft",
+      "name": "24_Slate_Canvas",
+      "kind": "fabric",
+      "base_rgb": [
+        75,
+        88,
+        102
+      ],
+      "png": "01_Material_Surfaces_PNG/soft__24_Slate_Canvas.png",
+      "pat": "03_GIMP_PAT/soft__24_Slate_Canvas.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 6.2334,
+        "seam_vertical": 6.6924,
+        "mean_interior_horizontal": 5.266,
+        "mean_interior_vertical": 5.2657,
+        "seam_ratio_h": 1.184,
+        "seam_ratio_v": 1.271
+      }
+    },
+    {
+      "category": "soft",
+      "name": "25_Natural_Linen",
+      "kind": "fabric",
+      "base_rgb": [
+        191,
+        183,
+        163
+      ],
+      "png": "01_Material_Surfaces_PNG/soft__25_Natural_Linen.png",
+      "pat": "03_GIMP_PAT/soft__25_Natural_Linen.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 6.4434,
+        "seam_vertical": 6.1094,
+        "mean_interior_horizontal": 5.274,
+        "mean_interior_vertical": 5.2669,
+        "seam_ratio_h": 1.222,
+        "seam_ratio_v": 1.16
+      }
+    },
+    {
+      "category": "soft",
+      "name": "26_Dark_Woven_Fibre",
+      "kind": "fabric",
+      "base_rgb": [
+        54,
+        52,
+        49
+      ],
+      "png": "01_Material_Surfaces_PNG/soft__26_Dark_Woven_Fibre.png",
+      "pat": "03_GIMP_PAT/soft__26_Dark_Woven_Fibre.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 6.2295,
+        "seam_vertical": 6.166,
+        "mean_interior_horizontal": 5.2758,
+        "mean_interior_vertical": 5.2595,
+        "seam_ratio_h": 1.181,
+        "seam_ratio_v": 1.172
+      }
+    },
+    {
+      "category": "mineral",
+      "name": "27_Kraft_Board",
+      "kind": "paper",
+      "base_rgb": [
+        178,
+        145,
+        112
+      ],
+      "png": "01_Material_Surfaces_PNG/mineral__27_Kraft_Board.png",
+      "pat": "03_GIMP_PAT/mineral__27_Kraft_Board.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 2.5156,
+        "seam_vertical": 3.9967,
+        "mean_interior_horizontal": 2.535,
+        "mean_interior_vertical": 4.1589,
+        "seam_ratio_h": 0.992,
+        "seam_ratio_v": 0.961
+      }
+    },
+    {
+      "category": "mineral",
+      "name": "28_Blue_Grey_Rag_Paper",
+      "kind": "paper",
+      "base_rgb": [
+        173,
+        182,
+        185
+      ],
+      "png": "01_Material_Surfaces_PNG/mineral__28_Blue_Grey_Rag_Paper.png",
+      "pat": "03_GIMP_PAT/mineral__28_Blue_Grey_Rag_Paper.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 2.5472,
+        "seam_vertical": 4.127,
+        "mean_interior_horizontal": 2.5315,
+        "mean_interior_vertical": 4.1763,
+        "seam_ratio_h": 1.006,
+        "seam_ratio_v": 0.988
+      }
+    },
+    {
+      "category": "mineral",
+      "name": "29_Muted_Fibreboard",
+      "kind": "paper",
+      "base_rgb": [
+        176,
+        156,
+        116
+      ],
+      "png": "01_Material_Surfaces_PNG/mineral__29_Muted_Fibreboard.png",
+      "pat": "03_GIMP_PAT/mineral__29_Muted_Fibreboard.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 2.5739,
+        "seam_vertical": 4.2178,
+        "mean_interior_horizontal": 2.5339,
+        "mean_interior_vertical": 4.1504,
+        "seam_ratio_h": 1.016,
+        "seam_ratio_v": 1.016
+      }
+    },
+    {
+      "category": "mineral",
+      "name": "30_Fine_Cork",
+      "kind": "cork",
+      "base_rgb": [
+        158,
+        132,
+        100
+      ],
+      "png": "01_Material_Surfaces_PNG/mineral__30_Fine_Cork.png",
+      "pat": "03_GIMP_PAT/mineral__30_Fine_Cork.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 4.3132,
+        "seam_vertical": 4.3486,
+        "mean_interior_horizontal": 4.3133,
+        "mean_interior_vertical": 4.318,
+        "seam_ratio_h": 1.0,
+        "seam_ratio_v": 1.007
+      }
+    },
+    {
+      "category": "mineral",
+      "name": "31_Offwhite_Gypsum",
+      "kind": "plaster",
+      "base_rgb": [
+        200,
+        196,
+        182
+      ],
+      "png": "01_Material_Surfaces_PNG/mineral__31_Offwhite_Gypsum.png",
+      "pat": "03_GIMP_PAT/mineral__31_Offwhite_Gypsum.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 4.8229,
+        "seam_vertical": 4.7611,
+        "mean_interior_horizontal": 4.7099,
+        "mean_interior_vertical": 4.7086,
+        "seam_ratio_h": 1.024,
+        "seam_ratio_v": 1.011
+      }
+    },
+    {
+      "category": "mineral",
+      "name": "32_Cool_Microcement",
+      "kind": "mineral",
+      "base_rgb": [
+        136,
+        146,
+        146
+      ],
+      "png": "01_Material_Surfaces_PNG/mineral__32_Cool_Microcement.png",
+      "pat": "03_GIMP_PAT/mineral__32_Cool_Microcement.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 4.6917,
+        "seam_vertical": 4.6673,
+        "mean_interior_horizontal": 4.7611,
+        "mean_interior_vertical": 4.7625,
+        "seam_ratio_h": 0.985,
+        "seam_ratio_v": 0.98
+      }
+    },
+    {
+      "category": "mineral",
+      "name": "33_Soft_Limestone",
+      "kind": "mineral",
+      "base_rgb": [
+        191,
+        184,
+        166
+      ],
+      "png": "01_Material_Surfaces_PNG/mineral__33_Soft_Limestone.png",
+      "pat": "03_GIMP_PAT/mineral__33_Soft_Limestone.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 4.8184,
+        "seam_vertical": 4.7979,
+        "mean_interior_horizontal": 4.7601,
+        "mean_interior_vertical": 4.7647,
+        "seam_ratio_h": 1.012,
+        "seam_ratio_v": 1.007
+      }
+    },
+    {
+      "category": "mineral",
+      "name": "34_Graphite_Mineral",
+      "kind": "mineral",
+      "base_rgb": [
+        76,
+        77,
+        80
+      ],
+      "png": "01_Material_Surfaces_PNG/mineral__34_Graphite_Mineral.png",
+      "pat": "03_GIMP_PAT/mineral__34_Graphite_Mineral.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 4.7145,
+        "seam_vertical": 4.6758,
+        "mean_interior_horizontal": 4.7604,
+        "mean_interior_vertical": 4.7593,
+        "seam_ratio_h": 0.99,
+        "seam_ratio_v": 0.982
+      }
+    },
+    {
+      "category": "fill",
+      "name": "01_Sparse_Microdot",
+      "kind": "alpha-ink",
+      "png": "02_Transparent_Fill_Patterns_PNG/01_Sparse_Microdot_Ink_Transparent.png",
+      "pat": "03_GIMP_PAT/01_Sparse_Microdot_Ink_Transparent.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 0.0,
+        "seam_vertical": 0.0,
+        "mean_interior_horizontal": 0.4594,
+        "mean_interior_vertical": 0.4594,
+        "seam_ratio_h": 0.0,
+        "seam_ratio_v": 0.0
+      }
+    },
+    {
+      "category": "fill",
+      "name": "02_Dense_Halftone_Dot",
+      "kind": "alpha-ink",
+      "png": "02_Transparent_Fill_Patterns_PNG/02_Dense_Halftone_Dot_Ink_Transparent.png",
+      "pat": "03_GIMP_PAT/02_Dense_Halftone_Dot_Ink_Transparent.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 0.0,
+        "seam_vertical": 0.0,
+        "mean_interior_horizontal": 2.5728,
+        "mean_interior_vertical": 2.5728,
+        "seam_ratio_h": 0.0,
+        "seam_ratio_v": 0.0
+      }
+    },
+    {
+      "category": "fill",
+      "name": "03_45_Degree_Hatch",
+      "kind": "alpha-ink",
+      "png": "02_Transparent_Fill_Patterns_PNG/03_45_Degree_Hatch_Ink_Transparent.png",
+      "pat": "03_GIMP_PAT/03_45_Degree_Hatch_Ink_Transparent.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 2.9375,
+        "seam_vertical": 2.9375,
+        "mean_interior_horizontal": 2.9375,
+        "mean_interior_vertical": 2.9375,
+        "seam_ratio_h": 1.0,
+        "seam_ratio_v": 1.0
+      }
+    },
+    {
+      "category": "fill",
+      "name": "04_45_Degree_Crosshatch",
+      "kind": "alpha-ink",
+      "png": "02_Transparent_Fill_Patterns_PNG/04_45_Degree_Crosshatch_Ink_Transparent.png",
+      "pat": "03_GIMP_PAT/04_45_Degree_Crosshatch_Ink_Transparent.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 4.4062,
+        "seam_vertical": 2.9375,
+        "mean_interior_horizontal": 5.3251,
+        "mean_interior_vertical": 5.5103,
+        "seam_ratio_h": 0.827,
+        "seam_ratio_v": 0.533
+      }
+    },
+    {
+      "category": "fill",
+      "name": "05_Fine_Pinstripe",
+      "kind": "alpha-ink",
+      "png": "02_Transparent_Fill_Patterns_PNG/05_Fine_Pinstripe_Ink_Transparent.png",
+      "pat": "03_GIMP_PAT/05_Fine_Pinstripe_Ink_Transparent.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 0.0,
+        "seam_vertical": 0.0,
+        "mean_interior_horizontal": 5.8807,
+        "mean_interior_vertical": 0.0,
+        "seam_ratio_h": 0.0,
+        "seam_ratio_v": 0.0
+      }
+    },
+    {
+      "category": "fill",
+      "name": "06_Fine_Scanline",
+      "kind": "alpha-ink",
+      "png": "02_Transparent_Fill_Patterns_PNG/06_Fine_Scanline_Ink_Transparent.png",
+      "pat": "03_GIMP_PAT/06_Fine_Scanline_Ink_Transparent.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 0.0,
+        "seam_vertical": 0.0,
+        "mean_interior_horizontal": 0.0,
+        "mean_interior_vertical": 5.8807,
+        "seam_ratio_h": 0.0,
+        "seam_ratio_v": 0.0
+      }
+    },
+    {
+      "category": "fill",
+      "name": "07_Technical_Square_Grid",
+      "kind": "alpha-ink",
+      "png": "02_Transparent_Fill_Patterns_PNG/07_Technical_Square_Grid_Ink_Transparent.png",
+      "pat": "03_GIMP_PAT/07_Technical_Square_Grid_Ink_Transparent.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 0.0,
+        "seam_vertical": 0.0,
+        "mean_interior_horizontal": 1.4242,
+        "mean_interior_vertical": 1.4242,
+        "seam_ratio_h": 0.0,
+        "seam_ratio_v": 0.0
+      }
+    },
+    {
+      "category": "fill",
+      "name": "08_Rhombus_Grid",
+      "kind": "alpha-ink",
+      "png": "02_Transparent_Fill_Patterns_PNG/08_Rhombus_Grid_Ink_Transparent.png",
+      "pat": "03_GIMP_PAT/08_Rhombus_Grid_Ink_Transparent.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 4.4062,
+        "seam_vertical": 4.4062,
+        "mean_interior_horizontal": 2.8442,
+        "mean_interior_vertical": 5.6927,
+        "seam_ratio_h": 1.549,
+        "seam_ratio_v": 0.774
+      }
+    },
+    {
+      "category": "fill",
+      "name": "09_Offset_Dot_Grid",
+      "kind": "alpha-ink",
+      "png": "02_Transparent_Fill_Patterns_PNG/09_Offset_Dot_Grid_Ink_Transparent.png",
+      "pat": "03_GIMP_PAT/09_Offset_Dot_Grid_Ink_Transparent.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 0.0,
+        "seam_vertical": 0.0,
+        "mean_interior_horizontal": 0.5054,
+        "mean_interior_vertical": 0.5054,
+        "seam_ratio_h": 0.0,
+        "seam_ratio_v": 0.0
+      }
+    },
+    {
+      "category": "fill",
+      "name": "10_Irregular_Stipple",
+      "kind": "alpha-ink",
+      "png": "02_Transparent_Fill_Patterns_PNG/10_Irregular_Stipple_Ink_Transparent.png",
+      "pat": "03_GIMP_PAT/10_Irregular_Stipple_Ink_Transparent.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 1.8359,
+        "seam_vertical": 0.0,
+        "mean_interior_horizontal": 1.388,
+        "mean_interior_vertical": 1.3955,
+        "seam_ratio_h": 1.323,
+        "seam_ratio_v": 0.0
+      }
+    },
+    {
+      "category": "fill",
+      "name": "11_Tight_Chevrons",
+      "kind": "alpha-ink",
+      "png": "02_Transparent_Fill_Patterns_PNG/11_Tight_Chevrons_Ink_Transparent.png",
+      "pat": "03_GIMP_PAT/11_Tight_Chevrons_Ink_Transparent.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 2.2031,
+        "seam_vertical": 1.4688,
+        "mean_interior_horizontal": 1.468,
+        "mean_interior_vertical": 1.4688,
+        "seam_ratio_h": 1.501,
+        "seam_ratio_v": 1.0
+      }
+    },
+    {
+      "category": "fill",
+      "name": "12_Small_Woven_Check",
+      "kind": "alpha-ink",
+      "png": "02_Transparent_Fill_Patterns_PNG/12_Small_Woven_Check_Ink_Transparent.png",
+      "pat": "03_GIMP_PAT/12_Small_Woven_Check_Ink_Transparent.pat",
+      "size": [
+        1024,
+        1024
+      ],
+      "metrics": {
+        "seam_horizontal": 0.0,
+        "seam_vertical": 0.0,
+        "mean_interior_horizontal": 4.7781,
+        "mean_interior_vertical": 4.7781,
+        "seam_ratio_h": 0.0,
+        "seam_ratio_v": 0.0
+      }
+    }
+  ]
+}
