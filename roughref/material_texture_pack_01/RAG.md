@@ -20,3 +20,5 @@
 | [`seamless_cream_and_blue_dot_grid`](source_png/seamless_cream_and_blue_dot_grid.png) | paper | cream paper with blue dotted technical grid | 0.58× | 0.58× |
 
 **Machine-searchable entries:** [`catalog.jsonl`](catalog.jsonl), with approximate RGB, original SHA-256, size, quality stage, semantic tags, and edge metrics.
+
+**Lossless container exception:** Pale concrete has the original source checksum retained in `catalog.jsonl`, while its committed PNG was losslessly re-encoded. Its decoded RGB pixels match the original exactly; see `stored_sha256` and `decoded_rgb_sha256`.

@@ -16,3 +16,7 @@
 Choose a tile by composition intent, material family, colour, contrast and grain frequency. For GIMP, place material PNGs below separate black line drawings, use opaque black masks with white-painted reveals, and keep transparent graphic patterns above base fill layers. Object volume/shadow should be a separate layer. `catalog.jsonl` entries can be read directly by search/RAG tools; per-category `RAG.md` provides human-readable retrieval context.
 
 **Provenance:** both packs produced in user-directed Techrote IO line-art/material sessions, 2026-11-07; Pack 01 includes independently generated images; Pack 02 is algorithmically generated from established aesthetic direction. Neither is a measured PBR library. No licensing terms are created by this import.
+
+## Binary-import integrity
+
+All 56 texture PNGs are individually versioned in their maturity folders. See [`tools/verify_import.py`](tools/verify_import.py) for source SHA-256 verification (55 byte-identical sources and one lossless PNG container re-encode). In [`roughref/material_texture_pack_01/catalog.jsonl`](roughref/material_texture_pack_01/catalog.jsonl), `sha256` is the original generator file checksum; for pale concrete, `stored_sha256` is the repository byte checksum and `decoded_rgb_sha256` is the canonical pixel-array checksum. No artistic or pixel modification was introduced.
